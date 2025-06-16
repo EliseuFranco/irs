@@ -1,0 +1,65 @@
+[
+  {
+    "escalao": 1,
+    "rendimento_min": "",
+    "rendimento_max": "8059",
+    "taxa_normal": "13.00",
+    "taxa_media": "13.000"
+  },
+  {
+    "escalao": 2,
+    "rendimento_min": "8059",
+    "rendimento_max": "12160",
+    "taxa_normal": "16.50",
+    "taxa_media": "14.180"
+  },
+  {
+    "escalao": 3,
+    "rendimento_min": "12160",
+    "rendimento_max": "17233",
+    "taxa_normal": "22.00",
+    "taxa_media": "16.482"
+  },
+  {
+    "escalao": 4,
+    "rendimento_min": "17233",
+    "rendimento_max": "22306",
+    "taxa_normal": "25.00",
+    "taxa_media": "18.419"
+  },
+  {
+    "escalao": 5,
+    "rendimento_min": "22306",
+    "rendimento_max": "28400",
+    "taxa_normal": "32.00",
+    "taxa_media": "21.334"
+  },
+  {
+    "escalao": 6,
+    "rendimento_min": "28400",
+    "rendimento_max": "41629",
+    "taxa_normal": "35.50",
+    "taxa_media": "25.835"
+  },
+  {
+    "escalao": 7,
+    "rendimento_min": "41629",
+    "rendimento_max": "44987",
+    "taxa_normal": "43.50",
+    "taxa_media": "27.154"
+  },
+  {
+    "escalao": 8,
+    "rendimento_min": "44987",
+    "rendimento_max": "83696",
+    "taxa_normal": "45.00",
+    "taxa_media": "35.408"
+  },
+  {
+    "escalao": 9,
+    "rendimento_min": "83696",
+    "rendimento_max": "",
+    "taxa_normal": "48.00",
+    "taxa_media": ""
+  }
+]
