@@ -19,7 +19,6 @@
 
 
 <script>
-    import ResultChart from '@/components/ResultChart.vue'
     import { Pie } from 'vue-chartjs';
 
     import { Chart as ChartJS, Title, Tooltip, Legend, ArcElement} from 'chart.js'
