@@ -33,7 +33,6 @@
             }
         },
         components: {
-            ResultChart,
             Pie
         },
         data(){

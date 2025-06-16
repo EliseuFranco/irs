@@ -5,13 +5,8 @@
       <HowWork />
       <simulation />
       <FormComponent />
-      <!-- <results /> -->
-      <!-- <Details /> -->
-       <ResultChart />
-
     </main>
 </template>
-
 <script>
 
   import HeaderComponent from '@/components/HeaderComponent.vue'
